@@ -1,0 +1,12 @@
+vendor_name = ModelSim
+source_file = 1, D:/DE/Implementation-of-half-adder-and-full-adder-circuit/ex02.v
+source_file = 1, D:/DE/Implementation-of-half-adder-and-full-adder-circuit/Verilog2.v
+source_file = 1, D:/DE/Implementation-of-half-adder-and-full-adder-circuit/db/ex02.cbx.xml
+design_name = ex02
+instance = comp, \sum~output , sum~output, ex02, 1
+instance = comp, \carry~output , carry~output, ex02, 1
+instance = comp, \a~input , a~input, ex02, 1
+instance = comp, \b~input , b~input, ex02, 1
+instance = comp, \c~input , c~input, ex02, 1
+instance = comp, \sum~0 , sum~0, ex02, 1
+instance = comp, \carry~0 , carry~0, ex02, 1
