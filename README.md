@@ -66,7 +66,7 @@ endmodule
 ### RTL realization
 ![OUTPUT](./halg.png)
 ### TIMING DIAGRAM
-![OUTPUT](./halftiming.png)
+![OUTPUT](./h.png)
 ### LOGIC SYMBOL & TRUTH TABLE 
 LOGIC SYMBOL
 ![OUTPUT](./half%20sy%201.png)]
@@ -78,7 +78,7 @@ TRUTH TABLE
 ### RTL realization
 ![OUTPUT](./full.png)
 ### TIMING DIAGRAM
-![OUTPUT](fulltiming.png)
+![OUTPUT](f.png)
 ### LOGIC SYMBOL & TRUTH TABLE 
 LOGIC SYMBOL
 
